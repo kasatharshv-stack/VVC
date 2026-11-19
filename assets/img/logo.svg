@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 176" role="img" aria-label="VVC Realinfra logo">
+  <title>VVC Realinfra Pvt Ltd</title>
+  <defs>
+    <clipPath id="vvcTri">
+      <polygon points="100,10 192,168 8,168"/>
+    </clipPath>
+  </defs>
+  <polygon points="100,10 192,168 8,168" fill="#7B2E2B"/>
+  <polygon points="100,36 170,156 30,156" fill="#ffffff"/>
+  <g clip-path="url(#vvcTri)" fill="none" stroke="#7B2E2B" stroke-width="7">
+    <line x1="72" y1="36" x2="72" y2="156"/>
+    <line x1="72" y1="80" x2="150" y2="80"/>
+    <line x1="72" y1="118" x2="164" y2="118"/>
+  </g>
+  <g fill="#7B2E2B" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" text-anchor="middle">
+    <text x="103" y="74">V</text>
+    <text x="103" y="112">V</text>
+    <text x="103" y="150">C</text>
+  </g>
+</svg>

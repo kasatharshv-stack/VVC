@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="34" fill="#0B4F4A"/>
+  <polygon points="100,26 182,178 18,178" fill="#F4EFE7"/>
+  <polygon points="100,54 158,164 42,164" fill="#0B4F4A"/>
+  <g fill="#F4EFE7" font-family="Georgia, serif" font-size="30" font-weight="700" text-anchor="middle">
+    <text x="104" y="92">V</text>
+    <text x="104" y="126">V</text>
+    <text x="104" y="160">C</text>
+  </g>
+  <g stroke="#F4EFE7" stroke-width="6"><line x1="74" y1="60" x2="74" y2="164"/></g>
+</svg>
