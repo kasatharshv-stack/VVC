@@ -340,6 +340,10 @@ li { margin-bottom: .45em; }
 .project--green .project__banner   { background: linear-gradient(135deg, #17493F, #3E8E6C); }
 .project--civic .project__banner   { background: linear-gradient(135deg, #23324A, #3B6E8F); }
 .project--parking .project__banner { background: linear-gradient(135deg, #4A3A12, #C8952B); }
+.project--infra .project__banner      { background: linear-gradient(135deg, #1B3A4B, #2F7A8C); }
+.project--irrigation .project__banner { background: linear-gradient(135deg, #10405A, #1F7FA8); }
+.project--industrial .project__banner { background: linear-gradient(135deg, #3A2E22, #8A6A3E); }
+.project--bridge .project__banner     { background: linear-gradient(135deg, #2B2F3A, #5B6477); }
 .project__tag {
   position: relative; z-index: 3;
   font-family: var(--font-head); text-transform: uppercase; letter-spacing: .14em;
