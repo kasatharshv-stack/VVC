@@ -11,7 +11,7 @@ import pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PARTIALS = ROOT / "tools" / "partials"
 
-NAV_KEYS = ["HOME", "ABOUT", "CAP", "PROJ", "CLIENT", "CONTACT"]
+NAV_KEYS = ["HOME", "ABOUT", "CAP", "PROJ", "EXEC", "CLIENT", "CONTACT"]
 
 PAGES = [
     ("index", "HOME",
@@ -24,8 +24,11 @@ PAGES = [
      "Capabilities | VVC Realinfra Pvt Ltd",
      "Roads and highways, mass housing, green buildings, auditoriums, multi-level parking and industrial structural works delivered by VVC Realinfra."),
     ("projects", "PROJ",
-     "Projects | VVC Realinfra Pvt Ltd",
-     "Flagship projects by VVC Realinfra including NH-86 Sagar-Chhatarpur, PMAY Bhuri Tekri Indore, the Khandwa auditorium and the Bhopal multi-level car parking."),
+     "Projects Completed | VVC Realinfra Pvt Ltd",
+     "69 works worth over Rs. 2,338 crore completed by VVC Realinfra across roads, infrastructure, irrigation, buildings, industrial and specialised works."),
+    ("projects-under-execution", "EXEC",
+     "Projects Under Execution | VVC Realinfra Pvt Ltd",
+     "20 works worth over Rs. 1,154 crore under execution by VVC Realinfra, with a further Rs. 233 crore where the company is L1 and the award is awaited."),
     ("clients", "CLIENT",
      "Clients &amp; Partners | VVC Realinfra Pvt Ltd",
      "VVC Realinfra works with MPRDC, MPPWD, GAIL, NBCC, BDA, CPWD and other government bodies, and sub-contracts for L&amp;T, JMC Projects and Sobha Ltd."),
