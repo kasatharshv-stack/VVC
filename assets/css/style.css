@@ -344,6 +344,7 @@ li { margin-bottom: .45em; }
 .project--irrigation .project__banner { background: linear-gradient(135deg, #10405A, #1F7FA8); }
 .project--industrial .project__banner { background: linear-gradient(135deg, #3A2E22, #8A6A3E); }
 .project--bridge .project__banner     { background: linear-gradient(135deg, #2B2F3A, #5B6477); }
+.project--cmrise .project__banner     { background: linear-gradient(135deg, #4B2340, #9A5080); }
 .project__tag {
   position: relative; z-index: 3;
   font-family: var(--font-head); text-transform: uppercase; letter-spacing: .14em;
